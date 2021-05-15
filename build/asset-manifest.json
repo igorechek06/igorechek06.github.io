@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/igorechek06/static/css/main.c2f7ab04.chunk.css",
+    "main.js": "/igorechek06/static/js/main.9ab1bc3f.chunk.js",
+    "main.js.map": "/igorechek06/static/js/main.9ab1bc3f.chunk.js.map",
+    "runtime-main.js": "/igorechek06/static/js/runtime-main.4cc0cfd1.js",
+    "runtime-main.js.map": "/igorechek06/static/js/runtime-main.4cc0cfd1.js.map",
+    "static/js/2.3910a70d.chunk.js": "/igorechek06/static/js/2.3910a70d.chunk.js",
+    "static/js/2.3910a70d.chunk.js.map": "/igorechek06/static/js/2.3910a70d.chunk.js.map",
+    "index.html": "/igorechek06/index.html",
+    "static/css/main.c2f7ab04.chunk.css.map": "/igorechek06/static/css/main.c2f7ab04.chunk.css.map",
+    "static/js/2.3910a70d.chunk.js.LICENSE.txt": "/igorechek06/static/js/2.3910a70d.chunk.js.LICENSE.txt",
+    "static/media/logo.adece810.gif": "/igorechek06/static/media/logo.adece810.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cc0cfd1.js",
+    "static/js/2.3910a70d.chunk.js",
+    "static/css/main.c2f7ab04.chunk.css",
+    "static/js/main.9ab1bc3f.chunk.js"
+  ]
+}

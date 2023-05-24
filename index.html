@@ -10,8 +10,31 @@
     />
     <title>igorek.dev</title>
   </head>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      body {
+        color: #a7a7a7;
+        background: #1e1e1e;
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      body {
+        color: #464b50;
+        background: #ffffff;
+      }
+    }
+
+    a {
+      color: #7587a6;
+    }
+
+    a:active {
+      color: #9b859d;
+    }
+  </style>
   <body>
-    <pre>
+    <pre style="font-size: clamp(0.25em, 1.5vw, 0.5em)">
   ███                                       █████             █████                     
  ░░░                                       ░░███             ░░███                      
  ████   ███████  ██████  ████████   ██████  ░███ █████     ███████   ██████  █████ █████

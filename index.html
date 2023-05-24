@@ -11,6 +11,24 @@
     <title>igorek.dev</title>
   </head>
   <style>
+    @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+
+    * {
+      font-family: "Noto Sans Mono";
+    }
+
+    @media screen and (max-width: 700px) {
+      * {
+        font-size: small;
+      }
+    }
+
+    @media screen and (min-width: 700px) {
+      * {
+        font-size: x-large;
+      }
+    }
+
     @media (prefers-color-scheme: dark) {
       body {
         color: #a7a7a7;
@@ -34,7 +52,7 @@
     }
   </style>
   <body>
-    <pre style="font-size: clamp(0.25em, 1.5vw, 0.5em)">
+    <pre style="font-size: clamp(0.25em, 1.5vw, 0.75em)">
   ███                                       █████             █████                     
  ░░░                                       ░░███             ░░███                      
  ████   ███████  ██████  ████████   ██████  ░███ █████     ███████   ██████  █████ █████
